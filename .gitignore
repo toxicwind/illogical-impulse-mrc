@@ -1,0 +1,24 @@
+.config/quickshell/ii/assets/icons/arch-symbolic.svg
+.config/quickshell/ii/assets/icons/linux-symbolic.svg
+.config/quickshell/ii/assets/icons/linux-symbolic.svg
+.config/quickshell/ii/modules/dock/Dock.qml.bak
+.config/quickshell/ii/assets/icons/arch-symbolic.svg
+.config/quickshell/ii/assets/icons/linux-symbolic.svg
+.config/ags/node_modules
+.config/ags/scss/_musicmaterial.scss
+.config/ags/scss/_musicwal.scss
+.config/ags/scss/_material.scss
+/diagnose.result
+/ii_ags.log
+/cache
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+.config/quickshell/ii/.qmlls.ini
+
+# token-scrub 2026-09-14: never commit secrets
+*.pat
+github_*_pat.json
+.env*
+*secret*
+*token*
